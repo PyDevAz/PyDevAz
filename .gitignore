@@ -1,3 +1,4 @@
 pomodoro.db
-database/database.py
 .venv
+settings.py
+__pycashe__/
